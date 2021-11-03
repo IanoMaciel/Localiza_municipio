@@ -31,12 +31,12 @@ Requisitos:
 
 **1. Clone o repositório**
 ~~~
-git clone https://github.com/IanoMaciel/Localiza_municipio.git
+git clone https://github.com/IanoMaciel/localiza-municipio.git
 ~~~
 
 **2. Entre no diretório** 
 ~~~
-cd Localiza_municipio
+cd localiza-municipio
 ~~~
 
 **3. Execute utilizando o comando abaixo**
